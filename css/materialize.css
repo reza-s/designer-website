@@ -2956,14 +2956,14 @@ ul.staggered-list li {
 }
 
 .page-footer {
-  padding-top: 20px;
+  padding-top: 5px;
   color: #fff;
   background-color: #ee6e73;
 }
 
 .page-footer .footer-copyright {
   overflow: hidden;
-  min-height: 50px;
+  min-height: 20px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -4343,6 +4343,7 @@ nav .sidenav-trigger i {
 nav .brand-logo {
   position: absolute;
   color: black;
+  font-family: 'Roboto', sans-serif;
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
@@ -4488,11 +4489,11 @@ nav .input-field label.active i {
     min-height: 64px;
   }
   nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
-    height: 64px;
-    line-height: 64px;
+    height: 80px;
+    line-height: 80px;
   }
   .navbar-fixed {
-    height: 64px;
+    height: 80px;
   }
 }
 
